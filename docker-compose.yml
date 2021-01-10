@@ -10,7 +10,7 @@ services:
     working_dir: /usr/src/app
     command: sh -c 'npm install; npm start'
     ports:
-      - "3034:3034"
+      - "3031:3031"
 
   microservice2:
     image: node:alpine

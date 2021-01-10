@@ -11,7 +11,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js 3034"
+    "start": "node index.js 3031"
   },
   "author": "Kokan Malenko",
   "license": "ISC",
